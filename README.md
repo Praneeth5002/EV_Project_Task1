@@ -14,6 +14,7 @@ To enable EV recommendation and comparison features through interactive chat-bas
 To evaluate the chatbot’s accuracy, user satisfaction, and response quality through testing and feedback.
 
 🧠 Expected Outcome
+
 A fully functional chatbot that can interactively answer EV-related questions in natural language.
 Accurate data retrieval and comparison using the Electric Vehicle Specs dataset.
 Enhanced user experience through AI-generated conversational responses.
